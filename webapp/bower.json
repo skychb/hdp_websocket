@@ -1,0 +1,20 @@
+{
+  "name": "webapp",
+  "homepage": "https://github.com/skychb/hdp_websocket",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "^1.5.5",
+    "lodash": "^4.11.2",
+    "stomp-websocket": "^2.3.4",
+    "sockjs": "^0.3.4"
+  }
+}
